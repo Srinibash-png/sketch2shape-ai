@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SKETCH2SHAPE AI
 
 ### From a 2D Sketch to a 3D Asset
@@ -170,3 +171,7 @@ The project follows a modular architecture consisting of multiple processing sta
                 v
         TEXTURE AND MATERI
 ```
+=======
+# sketch2shape-ai
+Sketch-to-3D pipeline: Stable Diffusion + ControlNet + InstantMesh, with a Gradio app. Draw or upload a sketch, get a .glb/.obj model. Built for TechZephyr 4.0.
+>>>>>>> 97d7d0d6ed42583eff20a6158388a09cc411663e
