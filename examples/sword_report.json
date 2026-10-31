@@ -1,0 +1,18 @@
+{
+  "input": "/kaggle/input/datasets/tsrinibashpatra/sketches2/sword.png",
+  "prompt": "a medieval sword",
+  "vertices": 6594,
+  "faces": 13192,
+  "extents": [
+    0.202,
+    0.856,
+    1.974
+  ],
+  "watertight": true,
+  "valid": true,
+  "times": {
+    "controlnet_s": 15.9,
+    "instantmesh_s": 70.2,
+    "total_s": 86.2
+  }
+}

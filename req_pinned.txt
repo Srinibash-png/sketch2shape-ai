@@ -1,0 +1,17 @@
+pytorch-lightning==2.1.2
+transformers==4.34.1
+diffusers==0.20.2
+huggingface-hub==0.17.3
+accelerate==0.24.1
+torchmetrics==1.2.1
+omegaconf==2.3.0
+einops
+webdataset
+tensorboard
+PyMCubes
+trimesh<5
+rembg
+onnxruntime
+imageio[ffmpeg]
+xatlas
+plyfile

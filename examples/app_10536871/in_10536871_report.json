@@ -1,0 +1,18 @@
+{
+  "input": "/kaggle/working/app_runs/10536871/in_10536871.png",
+  "prompt": "wooden chair",
+  "vertices": 51634,
+  "faces": 103280,
+  "extents": [
+    1.729,
+    1.54,
+    2.002
+  ],
+  "watertight": true,
+  "valid": true,
+  "times": {
+    "controlnet_s": 16.3,
+    "instantmesh_s": 70.1,
+    "total_s": 86.4
+  }
+}

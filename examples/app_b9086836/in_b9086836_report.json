@@ -1,0 +1,18 @@
+{
+  "input": "/kaggle/working/app_runs/b9086836/in_b9086836.png",
+  "prompt": "Girl",
+  "vertices": 20542,
+  "faces": 41076,
+  "extents": [
+    0.838,
+    0.819,
+    1.991
+  ],
+  "watertight": true,
+  "valid": true,
+  "times": {
+    "controlnet_s": 16.4,
+    "instantmesh_s": 69.9,
+    "total_s": 86.2
+  }
+}
