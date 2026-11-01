@@ -348,4 +348,4 @@ Pretrained models were trained by their authors on their own data (see each mode
 
 ## 15. Licenses
 
-Code in this repository: `<ADD LICENSE, e.g. MIT>`. Pretrained models are not included and keep their own licenses. Check the current license terms of Stable Diffusion 1.5, ControlNet, InstantMesh, rembg and nvdiffrast before reuse, especially for commercial use.
+Code in this repository: MIT License. Pretrained models are not included and keep their own licenses. Check the current license terms of Stable Diffusion 1.5, ControlNet, InstantMesh, rembg and nvdiffrast before reuse, especially for commercial use.
