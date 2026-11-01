@@ -4,8 +4,12 @@
 
 Sketch2Shape AI takes a single-view 2D sketch (drawn in the app or uploaded) plus an optional text prompt, and produces a real 3D mesh exported as `.obj` and `.glb`. It chains pretrained models: Stable Diffusion 1.5 with ControlNet (scribble), `rembg`, and InstantMesh. No model was trained or fine-tuned by us.
 
-- Demo video (2 to 3 min): `<ADD LINK>`
-- Team: `<ADD TEAM NAME AND MEMBERS>`
+- Demo video (2 to 3 min): https://drive.google.com/file/d/1pWjJtOUSyF6RGeJ22qDq7uRmIhRwMEDX/view?usp=drivesdk
+
+- Team: The Optimizers - 1.T.Srinibash Patra
+                         2.Rahul Padhi
+                         3.Smith Sahu
+                         4.Deeptansu Kumar Patra
 
 ---
 
